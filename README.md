@@ -1,16 +1,16 @@
-# Baserow CI/CD pipeline
+# Gitlab CI/CD pipeline
 
-<a href="https://dash.elest.io/deploy?source=cicd&social=dockerCompose&url=https://github.com/elestio-examples/baserow"><img src="deploy-on-elestio.png" alt="Deploy on Elest.io" width="180px" /></a>
+<a href="https://dash.elest.io/deploy?source=cicd&social=dockerCompose&url=https://github.com/elestio-examples/gitlab"><img src="deploy-on-elestio.png" alt="Deploy on Elest.io" width="180px" /></a>
 
-Deploy Baserow server with CI/CD on Elestio
+Deploy Gitlab server with CI/CD on Elestio
 
-<img src="baserow.png" style='width: 100%;'/>
+<img src="gitlab.png" style='width: 100%;'/>
 <br/>
 <br/>
 
 # Once deployed ...
 
-You can open Baserow UI here:
+You can open Gitlab UI here:
 
     URL: https://[CI_CD_DOMAIN]
     email: [ADMIN_EMAIL]
